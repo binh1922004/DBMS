@@ -1,0 +1,9 @@
+C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\bin\Debug\QLDiem.exe.config
+C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\bin\Debug\QLDiem.exe
+C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\bin\Debug\QLDiem.pdb
+C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.AssemblyReference.cache
+C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\obj\Debug\QLDiem.Properties.Resources.resources
+C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.GenerateResource.cache
+C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.CoreCompileInputs.cache
+C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\obj\Debug\QLDiem.exe
+C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\obj\Debug\QLDiem.pdb
