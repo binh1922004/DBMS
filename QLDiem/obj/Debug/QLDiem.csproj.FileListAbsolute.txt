@@ -7,3 +7,13 @@ C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.GenerateResource
 C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\obj\Debug\QLDiem.csproj.CoreCompileInputs.cache
 C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\obj\Debug\QLDiem.exe
 C:\Users\binh\HCMUTE\DBMS\QLDiem\QLDiem\obj\Debug\QLDiem.pdb
+C:\fit24-hk1\DBMS\Project\DBMS\QLDiem\obj\Debug\QLDiem.csproj.AssemblyReference.cache
+C:\fit24-hk1\DBMS\Project\DBMS\QLDiem\obj\Debug\QLDiem.Form1.resources
+C:\fit24-hk1\DBMS\Project\DBMS\QLDiem\obj\Debug\QLDiem.Properties.Resources.resources
+C:\fit24-hk1\DBMS\Project\DBMS\QLDiem\obj\Debug\QLDiem.csproj.GenerateResource.cache
+C:\fit24-hk1\DBMS\Project\DBMS\QLDiem\obj\Debug\QLDiem.csproj.CoreCompileInputs.cache
+C:\fit24-hk1\DBMS\Project\DBMS\QLDiem\obj\Debug\QLDiem.exe
+C:\fit24-hk1\DBMS\Project\DBMS\QLDiem\obj\Debug\QLDiem.pdb
+C:\fit24-hk1\DBMS\Project\DBMS\QLDiem\bin\Debug\QLDiem.exe.config
+C:\fit24-hk1\DBMS\Project\DBMS\QLDiem\bin\Debug\QLDiem.exe
+C:\fit24-hk1\DBMS\Project\DBMS\QLDiem\bin\Debug\QLDiem.pdb
